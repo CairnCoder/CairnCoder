@@ -8,6 +8,8 @@ Please remember:
 
 ---
 
+## Languages & Frameworks
+
 | Language | Experience | Comment |
 |-----------------|------------|---------|
 | Python          | ⭐⭐⭐⭐☆ Proficient      | Possibly expert (not insane) |
@@ -16,7 +18,7 @@ Please remember:
 | HTML/CSS/JavaScript | ⭐⭐⭐☆☆ Intermediate ||
 | Scripting       | ⭐⭐⭐☆☆ Intermediate     | Linux, Google Drive |
 
-| Tools/Framework | Experience | Comment |
+| Framework | Experience | Comment |
 |-----------------|------------|---------|
 | Git / GitHub          | ⭐⭐☆☆☆ Basic            | Used for personal projects & internship but not advanced workflows. |
 | Linux CLI             | ⭐⭐⭐☆☆ Intermediate    | Use for personal project & Master's thesis |
