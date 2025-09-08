@@ -5,7 +5,7 @@ I learned to code through the UK BBC Microbit endeavour back in 2017 (ish). Sinc
 Please remember:
 - I don't have a Computer Science degree.
 - I do have a life outside of coding and can only do it in my spare time.
-- I have an understanding of class inheritance, pointers, etc.
+- I have an understanding of coding structures upto class inheritance, pointers, etc.
 
 ---
 
