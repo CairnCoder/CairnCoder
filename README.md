@@ -6,6 +6,7 @@ Please remember:
 - I don't have a Computer Science degree.
 - I do have a life outside of coding and can only do it in my spare time.
 - I have an understanding of coding structures upto class inheritance, pointers, etc.
+- Academic projects are not listed here.
 
 ---
 
