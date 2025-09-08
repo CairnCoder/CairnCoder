@@ -4,7 +4,8 @@ I learned to code through the UK BBC Microbit endeavour back in 2017 (ish). Sinc
 
 Please remember:
 - I don't have a Computer Science degree.
-- I have a life outside of coding and can only do it in my spare time.
+- I do have a life outside of coding and can only do it in my spare time.
+- I have an understanding of class inheritance, pointers, etc.
 
 ---
 
@@ -27,8 +28,6 @@ Please remember:
 | Django (Python, web)      | ⭐⭐⭐☆☆ Intermediate | Built apps with DB integration, CRUD, and async fetch.
 | UWP (C#, xaml)            | ⭐⭐⭐☆☆ Intermediate | Functional apps built. |
 | Windows Forms             | ⭐⭐⭐☆☆ Intermediate | Functional apps built.|
-
-In summary, I am no computer scientist, but i have an understanding of class inheritance, pointers, etc.
 
 ---
 
