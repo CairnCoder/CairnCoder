@@ -10,8 +10,8 @@ Please remember:
 
 | Language | Experience | Comment |
 |-----------------|------------|---------|
-| Python          | ⭐⭐⭐⭐☆ Proficient      | Possibly expert, but not insane. |
-| C#              | ⭐⭐⭐⭐☆ Proficient      | Comfortable in UWP/Windows Forms |
+| Python          | ⭐⭐⭐⭐☆ Proficient      | Possibly expert (not insane) |
+| C#              | ⭐⭐⭐⭐☆ Proficient      ||
 | C++             | ⭐☆☆☆☆ Basic              ||
 | HTML/CSS/JavaScript | ⭐⭐⭐☆☆ Intermediate ||
 | Scripting       | ⭐⭐⭐☆☆ Intermediate     | Linux, Google Drive |
