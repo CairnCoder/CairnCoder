@@ -19,5 +19,5 @@ Please remember, I have a life outside of coding and can only code in my spare t
 
 ---
 
-**Name:** CairnCoder  
+**Name:** CairnCoder (pseudonym)
 **Pronouns:** He/Him
