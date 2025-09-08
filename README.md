@@ -11,7 +11,7 @@ Please remember:
 
 ## Languages & Frameworks
 
-| Language | Experience | Comment |
+| Language | Experience | Comment | |
 |---------------------|--|-------------------------|---------|
 | Python              | ⭐⭐⭐⭐☆ | Proficient  | Strongest language, across projects and academia. |
 | C#                  | ⭐⭐⭐⭐☆ | Proficient  | UWP and Windows Forms. |
