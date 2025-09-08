@@ -9,12 +9,18 @@ Please remember, I have a life outside of coding and can only do it in my spare 
 
 | Language / Tool | Experience | Comment |
 |-----------------|------------|---------|
-| Python          | ⭐⭐⭐⭐☆ Proficient | (Possibly expert, but not insane) |
-| C#              | ⭐⭐⭐⭐☆ Proficient ||
-| C++             | ⭐⭐☆☆☆ Basic ||
+| Python          | ⭐⭐⭐⭐☆ Proficient | Possibly expert, but not insane. |
+|  - scikit-learn | ⭐⭐⭐⭐☆ Proficient | Academic introduction at uni |
+|  - Keras        | ⭐☆☆☆☆ Novice        | Academic introduction at uni |
+| C#              | ⭐⭐⭐⭐☆ Proficient | Comfortable in UWP/Windows Forms |
+| C++             | ⭐☆☆☆☆ Basic         ||
 | HTML/CSS/JavaScript | ⭐⭐⭐☆☆ Intermediate ||
-| Git / GitHub      | ⭐⭐☆☆☆ Basic |Using for projects but not advanced workflows.|
-| Linux CLI       | ⭐⭐☆☆☆ Basic ||
+| Git / GitHub    | ⭐⭐☆☆☆ Basic        | Used for projects but not advanced workflows. |
+| Linux CLI       | ⭐⭐⭐☆☆ Intermediate ||
+| Django          | ⭐⭐⭐☆☆ Intermediate ||
+| UWP             | ⭐⭐⭐☆☆ Intermediate ||
+| Windows Forms   | ⭐⭐⭐☆☆ Intermediate ||
+
 
 
 ---
