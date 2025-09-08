@@ -32,5 +32,5 @@ Please remember:
 
 ---
 
-**Name:** CairnCoder (pseudonym)
+**Name:** CairnCoder (a pseudonym)
 **Pronouns:** He/Him
