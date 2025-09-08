@@ -12,23 +12,23 @@ Please remember:
 
 | Language | Experience | Comment |
 |-----------------|------------|---------|
-| Python          | ⭐⭐⭐⭐☆ Proficient      | Possibly expert (not insane) |
-| C#              | ⭐⭐⭐⭐☆ Proficient      ||
-| C++             | ⭐☆☆☆☆ Basic              ||
-| HTML/CSS/JavaScript | ⭐⭐⭐☆☆ Intermediate ||
-| Scripting       | ⭐⭐⭐☆☆ Intermediate     | Linux, Google Drive |
+| Python          | ⭐⭐⭐⭐☆ Proficient      | Strongest language, across projects and academia. |
+| C#              | ⭐⭐⭐⭐☆ Proficient      | UWP and Windows Forms. |
+| C++             | ⭐⭐☆☆☆ Basic             | Read lots of code but limited practice. |
+| HTML/CSS/JavaScript | ⭐⭐⭐☆☆ Intermediate | Can build small websites and use Bootstrap but not full-scale production apps. |
+| Scripting       | ⭐⭐⭐☆☆ Intermediate     | Confident with shell scripts and some automation, but not advanced system-level scripting. |
 
 | Framework | Experience | Comment |
 |-----------------|------------|---------|
-| Git / GitHub          | ⭐⭐☆☆☆ Basic            | Used for personal projects & internship but not advanced workflows. |
-| Linux CLI             | ⭐⭐⭐☆☆ Intermediate    | Use for personal project & Master's thesis |
+| Git / GitHub          | ⭐⭐☆☆☆ Basic            | Used in projects and internship. You know branching, commits, pull requests. Not “advanced workflows”. |
+| Linux CLI             | ⭐⭐☆☆☆ Basic            | Manage files, install and build programs. |
 | Scikit-learn (Python, ML) | ⭐⭐⭐⭐☆ Proficient | Academic introduction at university |
-| Keras (Python, ML)    | ⭐☆☆☆☆ Novice            | Academic introduction at university |
-| Django (Python, web)  | ⭐⭐⭐☆☆ Intermediate    ||
-| UWP                   | ⭐⭐⭐☆☆ Intermediate    ||
-| Windows Forms         | ⭐⭐⭐☆☆ Intermediate    ||
+| Keras (Python, ML)    | ⭐⭐☆☆☆ Novice           | Academic introduction at university |
+| Django (Python, web)  | ⭐⭐⭐☆☆ Intermediate    | Built apps with DB integration, CRUD, and async fetch.
+| UWP (C#, xaml)        | ⭐⭐⭐☆☆ Intermediate    | Functional apps built. |
+| Windows Forms         | ⭐⭐⭐☆☆ Intermediate    | Functional apps built.|
 
-
+In summary, I am no computer scientist, but i have an understanding of class inheritance, pointers, etc.
 
 ---
 
