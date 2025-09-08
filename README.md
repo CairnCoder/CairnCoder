@@ -13,7 +13,7 @@ Please remember:
 ## Languages & Frameworks
 
 | Language | Experience || Comment |
-|---------------------|-------------------------|---------|
+|---------|---------|---------|---------|
 | Python              | ⭐⭐⭐⭐☆ | Proficient   | Strongest language, across projects and academia. |
 | C#                  | ⭐⭐⭐⭐☆ | Proficient   | UWP and Windows Forms. |
 | C++                 | ⭐⭐☆☆☆   | Basic        | Read lots of code but limited practice. |
@@ -21,7 +21,7 @@ Please remember:
 | Scripting           | ⭐⭐⭐☆☆  | Intermediate | Confident with shell scripts and some automation, but not advanced system-level scripting. |
 
 | Framework | Experience || Comment |
-|---------------------------|-------------------------|---------|
+|---------|---------|---------|---------|
 | Git / GitHub              | ⭐⭐☆☆☆  | Basic        | Used in projects and internship. You know branching, commits, pull requests. Not “advanced workflows”. |
 | Linux CLI                 | ⭐⭐☆☆☆  | Basic        | Manage files, install and build programs. |
 | Scikit-learn (Python, ML) | ⭐⭐⭐⭐☆ | Proficient  | Academic introduction at university |
