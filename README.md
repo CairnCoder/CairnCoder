@@ -5,25 +5,23 @@ Please remember, I have a life outside of coding and can only do it in my spare 
 
 ---
 
-## Tools and Frameworks
-
 | Language | Experience | Comment |
 |-----------------|------------|---------|
-| Python          | ⭐⭐⭐⭐☆ Proficient | Possibly expert, but not insane. |
-| C#              | ⭐⭐⭐⭐☆ Proficient | Comfortable in UWP/Windows Forms |
-| C++             | ⭐☆☆☆☆ Basic         ||
+| Python          | ⭐⭐⭐⭐☆ Proficient      | Possibly expert, but not insane. |
+| C#              | ⭐⭐⭐⭐☆ Proficient      | Comfortable in UWP/Windows Forms |
+| C++             | ⭐☆☆☆☆ Basic              ||
 | HTML/CSS/JavaScript | ⭐⭐⭐☆☆ Intermediate ||
-| Scripting       | ⭐⭐⭐☆☆ Intermediate | Linux, Google Drive |
+| Scripting       | ⭐⭐⭐☆☆ Intermediate     | Linux, Google Drive |
 
 | Tools/Framework | Experience | Comment |
 |-----------------|------------|---------|
-| Git / GitHub          | ⭐⭐☆☆☆ Basic        | Used for projects but not advanced workflows. |
-| Linux CLI             | ⭐⭐⭐☆☆ Intermediate ||
+| Git / GitHub          | ⭐⭐☆☆☆ Basic            | Used for projects but not advanced workflows. |
+| Linux CLI             | ⭐⭐⭐☆☆ Intermediate    ||
 | Scikit-learn (Python, ML) | ⭐⭐⭐⭐☆ Proficient | Academic introduction at uni |
-| Keras (Python, ML)    | ⭐☆☆☆☆ Novice        | Academic introduction at uni |
-| Django (Python, web)  | ⭐⭐⭐☆☆ Intermediate ||
-| UWP                   | ⭐⭐⭐☆☆ Intermediate ||
-| Windows Forms         | ⭐⭐⭐☆☆ Intermediate ||
+| Keras (Python, ML)    | ⭐☆☆☆☆ Novice            | Academic introduction at uni |
+| Django (Python, web)  | ⭐⭐⭐☆☆ Intermediate    ||
+| UWP                   | ⭐⭐⭐☆☆ Intermediate    ||
+| Windows Forms         | ⭐⭐⭐☆☆ Intermediate    ||
 
 
 
