@@ -1,16 +1,26 @@
-## Hi there 👋
+## Welcome
 
-<!--
-**CairnCoder/CairnCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I learned to code through the BBC UK Microbit endeavour back in 2017 (ish). Since then I have learned alot and done various projects, only a few of which are listed here.  
+They are at different stages of completion and size. Some have effective commentary while others, such as those under active development, are sparse.  
+Click on a box to view the repository, ideas behind each project, code and documentation.
 
-Here are some ideas to get you started:
+Please remember, I have a life outside of coding and can only code in my spare time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tools and Frameworks
+
+| Language / Tool | Experience | Comment |
+|-----------------|------------|---------|
+| Python          | ⭐⭐⭐⭐☆ Proficient | (Not insane) |
+| C#              | ⭐⭐⭐⭐☆ Proficient ||
+| C++             | ⭐☆☆☆☆ Novice ||
+| HTML/CSS/JavaScript | ⭐⭐⭐☆☆ Intermediate ||
+| Git / GitHub      | ⭐⭐☆☆☆ Basic ||
+| Linux CLI       | ⭐⭐☆☆☆ Basic ||
+
+
+---
+
+**Name:** CairnCoder  
+**Pronouns:** He/Him
