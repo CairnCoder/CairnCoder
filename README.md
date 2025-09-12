@@ -31,7 +31,7 @@ Please remember:
 | UWP (C#, xaml)            | ⭐⭐⭐☆☆ | Intermediate | Functional apps built. |
 | Windows Forms             | ⭐⭐⭐☆☆ | Intermediate | Functional apps built.|
 
-I now regularly use AI tools to accelerate programming.
+I now regularly use AI tools to accelerate my programming.
 
 ---
 
