@@ -23,11 +23,11 @@ Please remember:
 
 | Framework | Experience || Comment |
 |---------|---------|---------|---------|
-| Git / GitHub              | ⭐⭐☆☆☆  | Basic        | Used in projects and internship. You know branching, commits, pull requests. Not “advanced workflows”. |
+| Git / GitHub              | ⭐⭐☆☆☆  | Basic        | Used in projects and internship. Including branching, commits, pull requests. Not “advanced workflows”. |
 | Linux CLI                 | ⭐⭐☆☆☆  | Basic        | Manage files, install and build programs. |
 | Scikit-learn (Python, ML) | ⭐⭐⭐⭐☆ | Proficient  | Academic introduction at university |
 | Keras (Python, ML)        | ⭐⭐☆☆☆  | Basic        | Academic introduction at university |
-| Django (Python, web)      | ⭐⭐⭐☆☆ | Intermediate | Built apps with DB integration, CRUD, and async fetch.
+| Django (Python, web)      | ⭐⭐⭐☆☆ | Intermediate | Built an app with DB integration, CRUD, and async fetch. |
 | UWP (C#, xaml)            | ⭐⭐⭐☆☆ | Intermediate | Functional apps built. |
 | Windows Forms             | ⭐⭐⭐☆☆ | Intermediate | Functional apps built.|
 
