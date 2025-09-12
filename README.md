@@ -36,4 +36,3 @@ I now regularly use AI tools to accelerate my programming.
 ---
 
 **Name:** CairnCoder (a pseudonym)
-**Pronouns:** He/Him
