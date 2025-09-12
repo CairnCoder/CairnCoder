@@ -1,6 +1,6 @@
 ## Welcome
 
-I learned to code through the UK BBC Microbit endeavour back in 2017 (ish). Since then I have learned alot and done various personal projects, only a few of which are listed here. They are at different stages of completion and size. Some have effective commentary while others, such as those under active development, are sparse. There is a tendancy for UI development, but only basuse i can then use it in life.
+I learned to code through the UK BBC Microbit endeavour back in 2017 (ish). Since then I have learned alot and done various personal projects, only a few of which are listed here. They are at different stages of completion and size. Some have effective commentary while others, such as those under active development, are sparse. There is a tendency for UI development, but only because i can then use it in life.
 
 Please remember:
 - I don't have a Computer Science degree, but did take programming for Physics/Maths modules at uni.
