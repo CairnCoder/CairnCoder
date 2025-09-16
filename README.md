@@ -23,7 +23,7 @@ Please remember:
 
 | Framework | Experience || Comment |
 |---------|---------|---------|---------|
-| Git / GitHub              | ⭐⭐☆☆☆  | Basic        | Used in projects and internship. Including branching, commits, pull requests. Not “advanced workflows”. |
+| Git / GitHub              | ⭐⭐☆☆☆  | Basic        | Used in projects and internship. Experience includes branching, commits, pull requests, and basic merging but not “advanced workflows”. |
 | Linux CLI                 | ⭐⭐☆☆☆  | Basic        | Manage files, install and build programs. |
 | Scikit-learn (Python, ML) | ⭐⭐⭐⭐☆ | Proficient  | Academic introduction at university |
 | Keras (Python, ML)        | ⭐⭐☆☆☆  | Basic        | Academic introduction at university |
