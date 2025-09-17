@@ -25,6 +25,7 @@ Please remember:
 |---------|---------|---------|---------|
 | Git / GitHub              | ⭐⭐☆☆☆  | Basic        | Used in projects and internship. Experience includes branching, commits, pull requests, and basic merging but not “advanced workflows”. |
 | Linux CLI                 | ⭐⭐☆☆☆  | Basic        | Manage files, install and build programs. |
+| High performance computing | ⭐⭐☆☆☆  | Basic        | Academic introduction, can execute existing code with Slurm and have done a little investigation on how to write it. |
 | Scikit-learn (Python, ML) | ⭐⭐⭐⭐☆ | Proficient  | Academic introduction at university |
 | Keras (Python, ML)        | ⭐⭐☆☆☆  | Basic        | Academic introduction at university |
 | Django (Python, web)      | ⭐⭐⭐☆☆ | Intermediate | Built an app with DB integration, CRUD, and async fetch. |
