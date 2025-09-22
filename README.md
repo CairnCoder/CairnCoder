@@ -36,12 +36,13 @@ I now regularly use AI tools to accelerate my programming.
 
 ---
 
-**Name:** CairnCoder (a pseudonym)
-
-
----
-
 I intend to make my own website page at some point but in the meantime here are a few other of my achivements.
 
+<img src="https://github.com/user-attachments/assets/52a97a26-eaae-4a3a-9b7d-b5be21f4be0d"
+     alt="Duolingo screenshot"
+     height="400">
+     
+---
 
-![Screenshot_20250918_232522_Duolingo](https://github.com/user-attachments/assets/52a97a26-eaae-4a3a-9b7d-b5be21f4be0d)
+**Name:** CairnCoder (a pseudonym)
+
