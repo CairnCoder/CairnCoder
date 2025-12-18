@@ -9,6 +9,11 @@ Please remember:
 - I will continue to add personal projects.
 - Academic projects are not listed here.
 
+Planned projects:
+- Fitness tracking wesite - Customised data analysis of the data from my smart watch (Garmin).
+- A 'My skills' website - CVs and Cover letters are ok, but when it gets technical people need to see the skill i have and be able to search.
+- ML predictor for sports race results - A basic, self updating website with time serise machine learning. I have a univeristy school of Maths introduction but need to see how it is done in production. 
+
 ---
 
 ## Languages & Frameworks
