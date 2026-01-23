@@ -43,11 +43,11 @@ I learned to code through the UK BBC Microbit initiative back in 2017 (ish). Sin
 | UWP (C#, xaml)            | ⭐⭐⭐☆☆ | Intermediate | Functional apps built. |
 | Windows Forms             | ⭐⭐⭐☆☆ | Intermediate | Functional apps built.|
 
-I now regularly use AI tools to accelerate my programming.
+I now regularly use AI tools to accelerate my programming. AI can't do everything: it gets things wrong, fails with niche areas of information, but excels with well known informaiton (mostly).
 
 ---
 
-I intend to make my own website page at some point but in the meantime here are a few other of my achivements.
+I intend to make my own website page at some point, but in the meantime here are a few other of my achivements.
 
 <img src="https://github.com/user-attachments/assets/52a97a26-eaae-4a3a-9b7d-b5be21f4be0d"
      alt="Duolingo screenshot"
