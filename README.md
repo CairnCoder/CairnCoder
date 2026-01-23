@@ -16,8 +16,9 @@ Planned projects:
 
 Attatudes:
 - <b>I belive in well documented code</b>, for one's own sanity a few years later and for other people: inline comments, function definition messages, summaries of intended task.
-- I belive in time efficency, thus comments should only be done once the final version is well defined.
-- I belive in simplicity, it less prone to error, faster to understand, and usualy is most efficent.
+- <b>I belive in time efficency</b>, thus comments should only be done once the final version is well defined.
+- <b>I belive in simplicity</b>, it less prone to error, faster to understand, and easier to alter. Ideal simple solutions, might not be imidetly obvious and thus be must value the progress made to reach them.
+- <b>I belive that there is no point repeating what other people have already done</b>, if the tools are there, just use them; don't bother making your own unless you have a good reason.
 
 ---
 
