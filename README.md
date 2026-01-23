@@ -27,8 +27,8 @@ Attatudes:
 | Language | Experience || Comment |
 |---------|---------|---------|---------|
 | Python              | ⭐⭐⭐⭐☆ | Proficient   | Strongest language, across projects and academia. |
-| C#                  | ⭐⭐⭐⭐☆ | Proficient   | UWP and Windows Forms. |
-| C++                 | ⭐⭐☆☆☆   | Basic        | Read lots of code but limited practice. |
+| C#                  | ⭐⭐⭐☆☆  | Intermediate | UWP and Windows Forms. |
+| C++                 | ⭐☆☆☆☆    | Basic        | Read lots of code but limited practice. |
 | HTML/CSS/JavaScript | ⭐⭐⭐☆☆  | Intermediate | Can build small websites and use Bootstrap but not full-scale production apps. |
 | Scripting           | ⭐⭐⭐☆☆  | Intermediate | Confident with shell scripts and some automation, but not advanced system-level scripting. |
 
