@@ -14,6 +14,11 @@ Planned projects:
 - A 'My skills' website - CVs and Cover letters are ok, but when it gets technical people need to see the skill i have and be able to search.
 - ML predictor for sports race results - A basic, self updating website with time serise machine learning. I have a univeristy school of Maths introduction but need to see how it is done in production. 
 
+Attatudes:
+- <b>I belive in well documented code</b>, for one's own sanity a few years later and for other people: inline comments, function definition messages, summaries of intended task.
+- I belive in time efficency, thus comments should only be done once the final version is well defined.
+- I belive in simplicity, it less prone to error, faster to understand, and usualy is most efficent.
+
 ---
 
 ## Languages & Frameworks
