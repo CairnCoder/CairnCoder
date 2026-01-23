@@ -2,19 +2,19 @@
 
 I learned to code through the UK BBC Microbit initiative back in 2017 (ish). Since then I have learned alot and done various personal projects, only a few of which are listed here. They are at different stages of completion and size. Some have effective commentory while others are sparse. There is a tendency for UI development, but only because those projects can be used in daily life.
 
-Please remember:
+<b>Please remember:</b>
 - I don't have a Computer Science degree, but did take some Physics/Maths programming modules at university.
 - I do have a life outside of coding and can thus only code in my spare time.
 - I have an understanding of coding structures upto class inheritance, pointers, etc, and an idea of basic algorithums.
 - I will continue to add personal projects.
 - Academic projects are not listed here.
 
-Planned projects:
+<b>Planned projects:</b>
 - Fitness tracking wesite - Customised data analysis of the data from my smart watch (Garmin).
 - A 'My skills' website - CVs and Cover letters are ok, but when it gets technical people need to see the skill i have and be able to search.
 - ML predictor for sports race results - A basic, self updating website with time serise machine learning. I have a univeristy school of Maths introduction but need to see how it is done in production. 
 
-Attatudes:
+<b>Attatudes:</b>
 - <b>I belive in well documented code</b>, for one's own sanity a few years later and for other people: inline comments, function definition messages, summaries of intended task.
 - <b>I belive in time efficency</b>, thus comments should only be done once the final version is well defined.
 - <b>I belive in simplicity</b>, it less prone to error, faster to understand, and easier to alter. Ideal simple solutions, might not be imidetly obvious and thus be must value the progress made to reach them.
