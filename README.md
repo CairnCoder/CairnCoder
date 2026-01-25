@@ -9,6 +9,9 @@ I learned to code through the UK BBC Microbit initiative back in 2017 (ish). Sin
 - I will continue to add personal projects.
 - Academic projects are not listed here.
 
+<b>Existing projects:</b>
+- See bottom of this(<a href="https://github.com/CairnCoder">?</a>) page.
+
 <b>Planned projects:</b>
 - A 'My skills' website - CVs and Cover letters are ok, but when it gets technical people need to see the skill i have and be able to search.
 - ML predictor for sports race results - A basic, self updating website with time serise machine learning. I have a univeristy school of Maths introduction but need to see how it is done in production. 
