@@ -10,9 +10,11 @@ I learned to code through the UK BBC Microbit initiative back in 2017 (ish). Sin
 - Academic projects are not listed here.
 
 <b>Planned projects:</b>
-- Fitness tracking wesite - Customised data analysis of the data from my smart watch (Garmin).
 - A 'My skills' website - CVs and Cover letters are ok, but when it gets technical people need to see the skill i have and be able to search.
 - ML predictor for sports race results - A basic, self updating website with time serise machine learning. I have a univeristy school of Maths introduction but need to see how it is done in production. 
+
+<b>Canceled projects:</b>
+- Fitness tracking wesite - Customised data analysis of the data from my smart watch (Garmin). An internal philosophy change made me search for existing tools online, which has led me to finding an existing suitable solution.
 
 <b>Attatudes:</b>
 - <b>I belive in well documented code</b>, for one's own sanity a few years later and for other people: inline comments, function definition messages, summaries of intended task.
