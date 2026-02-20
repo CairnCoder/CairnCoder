@@ -58,7 +58,8 @@ I intend to make my own website page at some point, but in the meantime here are
      alt="Duolingo screenshot"
      height="400">
      
----
+---![Screenshot_20260219_232543_Duolingo](https://github.com/user-attachments/assets/8db6d4bb-624c-4db4-a7aa-a01800f2a16d)
+
 
 **Name:** CairnCoder (a pseudonym)
 
