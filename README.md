@@ -22,7 +22,7 @@ I learned to code through the UK BBC Microbit initiative back in 2017 (ish). Sin
 <b>Attitudes:</b>
 - <b>I believe in well documented code</b>, for one's own sanity a few years later and for other people: inline comments, function definition messages, summaries of intended task.
 - <b>I believe in time efficiency</b>, thus comments should only be done once the final version is well defined.
-- <b>I believe in simplicity</b>, it is less prone to error, faster to understand, and easier to alter. Ideal simple solutions might not be imidetly obvious and thus we must value the progress made to reach them.
+- <b>I believe in simplicity</b>, it is less prone to error, faster to understand, and easier to alter. Ideal simple solutions might not be immediately obvious and thus we must value the progress made to reach them.
 - <b>I believe that there is no point repeating what other people have already done</b>, if the tools are there, just use them; don't waist your time in replicating them unless you have a good reason.
 
 ---
@@ -48,7 +48,7 @@ I learned to code through the UK BBC Microbit initiative back in 2017 (ish). Sin
 | UWP (C#, xaml)            | ⭐⭐⭐☆☆ | Intermediate | Functional apps built. |
 | Windows Forms             | ⭐⭐⭐☆☆ | Intermediate | Functional apps built.|
 
-I now regularly use AI tools to accelerate my programming. AI can't do everything: it gets things wrong, fails with niche areas of information, but excels with well known informaiton (mostly).
+I now regularly use AI tools to accelerate my programming. AI can't do everything: it gets things wrong, fails with niche areas of information, but excels with well known information (mostly).
 
 ---
 
