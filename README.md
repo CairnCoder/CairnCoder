@@ -5,7 +5,7 @@ I learned to code through the UK BBC Microbit initiative back in 2017 (ish). Sin
 <b>Please remember:</b>
 - I don't have a Computer Science degree, but did take some Physics/Maths programming modules at university.
 - I do have a life outside of coding and can thus only code in my spare time.
-- I have an understanding of coding structures upto class inheritance, pointers, etc, and an idea of basic algorithums.
+- I have an understanding of coding structures upto class inheritance, pointers, etc, and an idea of basic algorithms.
 - I will continue to add personal projects.
 - Academic projects are not listed here.
 
@@ -19,7 +19,7 @@ I learned to code through the UK BBC Microbit initiative back in 2017 (ish). Sin
 <b>Canceled projects:</b>
 - Fitness tracking wesite - Customised data analysis of the data from my smart watch (Garmin). An internal philosophy change made me search for existing tools online, which has led me to finding an existing suitable solution.
 
-<b>Attatudes:</b>
+<b>Attitudes:</b>
 - <b>I belive in well documented code</b>, for one's own sanity a few years later and for other people: inline comments, function definition messages, summaries of intended task.
 - <b>I belive in time efficency</b>, thus comments should only be done once the final version is well defined.
 - <b>I belive in simplicity</b>, it is less prone to error, faster to understand, and easier to alter. Ideal simple solutions might not be imidetly obvious and thus we must value the progress made to reach them.
