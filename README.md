@@ -54,7 +54,7 @@ I now regularly use AI tools to accelerate my programming. AI can't do everythin
 
 I intend to make my own website page at some point, but in the meantime here are a few other of my achivements.
 
-<img src="[https://github.com/user-attachments/assets/8db6d4bb-624c-4db4-a7aa-a01800f2a16d]"
+<img src="https://github.com/user-attachments/assets/8db6d4bb-624c-4db4-a7aa-a01800f2a16d"
      alt="Duolingo screenshot"
      height="400">
      
