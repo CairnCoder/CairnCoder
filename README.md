@@ -1,6 +1,6 @@
 ## Welcome
 
-Please see my portfolio page: <a href="https://cairncoder.github.io/portfolio/">https://cairncoder.github.io/portfolio/</a> (partially replaces this current one)
+<b>Please see my portfolio page:</b> <a href="https://cairncoder.github.io/portfolio/">https://cairncoder.github.io/portfolio/</a> <small>(partially replaces this current one)</small>
 
 I learned to code through the UK BBC Microbit initiative back in 2017 (ish). Since then I have learned alot and done various personal projects, only a few of which are listed here. They are at different stages of completion and size. Some have effective commentory while others are sparse. There is a tendency for UI development, but only because those projects can be used in daily life.
 
